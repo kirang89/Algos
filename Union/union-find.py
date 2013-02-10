@@ -1,3 +1,0 @@
-#
-# Implementation of UF algo
-#
